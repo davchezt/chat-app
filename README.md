@@ -1,6 +1,6 @@
 # Chat App
 
-Windows Forms Application made in Visual Studio, written in C# (.NET Framework v4.6.1).
+Windows Forms Application made in Visual Studio Community 2019 v16.7.6, written in C# (.NET Framework v4.6.1).
 
 Application is made for sole purpose of showing how to implement `TcpListener` and `TcpClient` classes as well as asynchronous read and write functions.
 
